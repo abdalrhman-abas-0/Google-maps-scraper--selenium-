@@ -1,4 +1,4 @@
-# Google Maps Scraper.
+# Google-maps-scraper-"selenium".
 
 . This Program Scrapes Google Maps For Lead Generation And Saves It In A .csv File.
 
